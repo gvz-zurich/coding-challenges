@@ -39,7 +39,7 @@ Programmiere so, wie du auch im Alltag programmieren würdest. Insbesondere:
 - verwende eine IDE deiner Wahl, in der du dich wohl fühlst
 - benutze das Internet und andere Quellen, die dich weiterbringen - aber kopiere keine Komplettlösung
 
-Wir schätzen, dass die Bearbeitung von 2 Aufgaben etwa 60 Minuten dauert. Sollte diese Schätzung für dich unrealistisch sein, darfst du auch gerne den Stand pushen, welchen du nach dieser Zeit erreicht hast.
+Wir schätzen, dass die Bearbeitung von 2 Aufgaben nicht viel länger als 60 Minuten dauert. Solltest du nach der Zeit nicht fertig sein ist das kein Ausschlusskriterium. Bitte investiere NICHT deutlich mehr Zeit, sondern verwende noch wenige Minuten um zu beschreiben, was deine nächsten Schritte wären und pushe den aktuellen Stand.
 
 ---
 
