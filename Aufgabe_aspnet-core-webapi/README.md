@@ -1,4 +1,4 @@
-# Pflichtaufgabe "ASP.NET Core Web API"
+# Aufgabe "ASP.NET Core Web API"
 
 ## Aufgabenstellung
 
