@@ -18,11 +18,11 @@ Anhand der eingereichten Lösungen hoffen wir, uns ein Bild über Arbeitsweise, 
 
 ## Aufgaben
 
-Die Aufgabee richtet sich an .NET EntwicklerInnen. Wir gehen davon aus, dass du mit ASP.NET Core, REST API's und Git vertraut bist. 
+Die Aufgabe richtet sich an .NET EntwicklerInnen. Wir gehen davon aus, dass du mit ASP.NET Core, REST API's und Git vertraut bist. 
 
 Für die GVZ Recruiting Challenge soll die Aufgabe [aspnet-core-webapi](./Aufgabe_aspnet-core-webapi/README.md) gelöst werden. 
 
-Dabei soll mit [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) und [Entity Framework Core](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore) ein REST API erstellt werden, welches über CRUD-Endpunkte verfügt. Die detailierte Aufgabenstellung findest du im README.md des entsprechenden Verzeichnisses. 
+Dabei soll mit [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) und [Entity Framework Core](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore) ein REST API erstellt werden, welches über CRUD-Endpunkte verfügt. Die detaillierte Aufgabenstellung findest du im README.md des entsprechenden Verzeichnisses. 
 
 Die in der Aufgabenstellung erwähnten Frameworks und Packages sind Teile des Tech Stacks, der das Team bei der GVZ aktuell einsetzt.
 
