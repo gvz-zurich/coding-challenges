@@ -10,11 +10,9 @@ Erstelle eine Angular Applikation (von Scratch, siehe [ng new](https://angular.d
 - Verwende [Angular 17 oder aktueller](https://angular.dev/)
 - Verwende [Angular Material 17 oder aktueller](https://material.angular.io/) mit Material Icons, Roboto Font und einem prebuilt Theme
 
-### Funktionen
+### Funktion 1: Form zur Eingabe von Werten für die Erstellung einer Pizza
 
-**Toolbar mit Titel**
-
-**Form zur Eingabe von Werten für die Erstellung einer Pizza**
+**Eingabewerte**
 
 _Pizza_
 
@@ -42,11 +40,26 @@ Verwende den [HttpClient](https://angular.dev/guide/http). Der POST Request kann
 
 **Gestaltung**
 
-Beispiel für die Gestaltung:
+Beispiel:
 
-<img src="../assets/img/task-1_ux-sample.png" alt="Task 1 UX sample" width="600px">
+<img src="../assets/img/task-1_pizza-form.png" alt="Task 1 Pizza Form" width="600px">
 
-Deine Resultate dürfen bezüglich Gestaltung vom Beispiel abweichen. Achte darauf, dass alle oben beschriebenen Funktionen umgesetzt sind und die Darstellung für dich intuitiv ist.
+Deine Resultate können bezüglich Gestaltung vom Beispiel abweichen. Achte darauf, dass alle oben beschriebenen Funktionen umgesetzt sind und die Darstellung für dich intuitiv ist.
+
+### Funktion 2: Farbige Quadrate mit Flexbox
+
+Stelle farbige Quadrate mit [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) gemäss nachfolgendem Beispiel dar:
+
+<img src="../assets/img/task-1_flexbox.png" alt="Task 1 Flexbox" width="600px">
+
+Kriterien:
+
+- Darstellung von 30 farbigen Quadraten, in jedem Quadrat wird der Index angezeigt
+- Keine Überlappung der Quadrate, Abstände zwischen den Quadraten (horizontal und vertikal)
+- Quadrate sind umgeben von innerem und äusserem Element, jeweils in unterschiedlichen Farben
+- Darstellung der Anzahl Quadrate pro Zeile wächst / schrumpft dynamisch mit Seitenbreite
+
+Wähle sinnvolle Werte für Dimensionen und Abstände sowie HTML Elemente.
 
 ### Abgrenzung Aufgabenstellung
 
@@ -55,8 +68,7 @@ Um Umfang und Komplexität zu reduzieren sind folgende Aspekte NICHT Teil der Au
 - Testing
 - Unterteilung in Komponenten -> Implementation mit `app.component` ist ausreichend
 - Routing
-- Barrierefreiheit / Accessibility
-- Responsiveness
+- Accessibility
 - Internationalization
 
 ## Bewertungskriterien
