@@ -29,8 +29,6 @@ Zur Abgabe der Resultate schlagen wir vor, ein Repository bei deinem favorisiert
 
 Bitte achte darauf, dass du am Ende alle Commits pushst und dass das Repository öffentlich ist. Schicke nach Abschluss der Aufgabe(n) einen Link zum Repository an deine Kontaktperson bei der GVZ.
 
-Wir schätzen, dass die Bearbeitung der Aufgabe in etwa 60 Minuten dauert. Wir möchten nicht unverschämt sein und zu viel deiner Zeit in Anspruch nehmen - solltest du nach der Zeit nicht fertig sein, bewerten wir dies nicht zwingend als negativ. Bitte investiere NICHT deutlich mehr Zeit, sondern verwende abschliessend noch wenige Minuten um zu beschreiben, was deine nächsten Schritte wären und pushe den aktuellen Stand.
-
 ---
 
 ## Aufgaben
